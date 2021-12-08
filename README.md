@@ -1,28 +1,3 @@
-_________________________________
-
-Yash Malik
-
-(18075065)
-
-B.Tech. (Semester-7)
-
-Computer Science and Engineering
-_________________________________
-
-
-___________________________________________________________________________________________________________________
-
-The project is based on the paper "A Structural Probe for Finding Syntax in Word Representations"
-Hewitt et. al (2019), available at 'https://aclanthology.org/N19-1419/'.
-
-The code has been adapted from https://github.com/john-hewitt/structural-probes (for the same, also see the citation requirements at bottom), and comments are written at places where some minor changes have been made due to version issues of the tools used.
-
-All these files are also hosted at 'https://github.com/yash-malik/BTech-Project'
-For further queries contact 'yashmalik.cse18@itbhu.ac.in'
-___________________________________________________________________________________________________________________
-
-
-
 
 <p align="center">
   <img src="doc-assets/header.png" width="550" title="hover text" alt="A vector space and a parse tree representing the same info.">
